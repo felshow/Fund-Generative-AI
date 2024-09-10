@@ -23,7 +23,11 @@ Esses conceitos trabalham juntos para permitir que o Copilot analise imagens de 
 Se você deseja contribuir com o projeto, siga os passos abaixo:
 
 Faça um fork do projeto.
+
 Crie uma branch para sua feature (git checkout -b feature/AmazingFeature).
+
 Faça commit das suas mudanças (git commit -m 'Add some AmazingFeature').
+
 Faça push para a branch (git push origin feature/AmazingFeature).
+
 Abra um Pull Request.
